@@ -32,7 +32,7 @@ COMP8410_Assignment2_Code/
 
 ## Data
 
-The original dataset is not uploaded to this repository.
+The original dataset is not uploaded to this repository due to data privacy issue.
 
 To run the code, put the course-provided CSV file in the `data/` folder.
 
