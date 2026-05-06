@@ -5,6 +5,53 @@ This repository contains the R code for COMP8410 Assignment 2.
 The code is organised so that the tutor can reproduce the analysis.  
 The original course data file is not included because of course data-use restrictions.
 
+## Environment
+
+This project was run with R 4.5.3.
+
+RStudio is recommended, but not required. The code can also be run from Terminal with `Rscript`.
+
+The working directory should be the project root folder. This is the folder that contains:
+
+```text
+README.md
+run_all.R
+scripts/
+data/
+outputs/
+figures/
+```
+
+## Required R Packages
+
+The scripts use these R packages:
+
+```text
+tidyverse 2.0.0
+janitor 2.2.1
+rpart 4.1.27
+rpart.plot 3.1.4
+caret 7.0-1
+cluster 2.1.8.2
+factoextra 2.0.0
+```
+
+The setup script `scripts/00_setup.R` checks these packages and installs missing packages if needed.
+
+If package installation fails, install them manually:
+
+```r
+install.packages(c(
+  "tidyverse",
+  "janitor",
+  "rpart",
+  "rpart.plot",
+  "caret",
+  "cluster",
+  "factoextra"
+))
+```
+
 ## Folder Structure
 
 ```text
