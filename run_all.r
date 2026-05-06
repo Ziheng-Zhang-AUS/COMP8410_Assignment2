@@ -1,0 +1,5 @@
+source("scripts/01_data_quality_check.r")
+source("scripts/02_rq1_descriptive_summary.r")
+source("scripts/03_rq1_decision_tree_full_model.r")
+source("scripts/04_rq1_decision_tree_reduced_model.r")
+source("scripts/05_rq2_kmeans_clustering.r")

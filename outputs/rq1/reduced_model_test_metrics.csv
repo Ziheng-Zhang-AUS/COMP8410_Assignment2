@@ -1,0 +1,8 @@
+"metric","value"
+"Accuracy",0.698744769874477
+"Majority baseline accuracy",0.584788029925187
+"Balanced accuracy",0.676298701298701
+"Precision for Satisfied",0.666666666666667
+"Recall for Satisfied",0.545454545454545
+"F1 for Satisfied",0.6
+"Kappa",0.362241494329553

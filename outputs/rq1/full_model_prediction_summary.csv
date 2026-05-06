@@ -1,0 +1,5 @@
+"actual","predicted_class","n","mean_prob_satisfied","mean_prob_dissatisfied"
+"Dissatisfied","Dissatisfied",110,0.202685483109103,0.797314516890897
+"Dissatisfied","Satisfied",30,0.714876645168056,0.285123354831944
+"Satisfied","Dissatisfied",45,0.221899291218932,0.778100708781068
+"Satisfied","Satisfied",54,0.728220640413892,0.271779359586108
