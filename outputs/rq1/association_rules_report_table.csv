@@ -1,0 +1,11 @@
+"target","rules","support","confidence","coverage","lift","count"
+"Dissatisfied","{Q26_1_item=Q26_1=AlbaneseLowMid,Q3_item=Q3=NoCampaignInterest} => {Q27_item=Q27=Dissatisfied}",0.054,0.896,0.06,1.532,43
+"Dissatisfied","{Q3_item=Q3=NoCampaignInterest,Q25_2_item=Q25_2=LaborLowMid} => {Q27_item=Q27=Dissatisfied}",0.051,0.872,0.059,1.492,41
+"Dissatisfied","{Q28_item=Q28=LowTrust,Q3_item=Q3=LowCampaignInterest,Knowledge_item=Knowledge=Low} => {Q27_item=Q27=Dissatisfied}",0.096,0.865,0.111,1.479,77
+"Dissatisfied","{Q28_item=Q28=LowTrust,Q15_item=Q15=OtherListedOrNoPreference,Knowledge_item=Knowledge=Low} => {Q27_item=Q27=Dissatisfied}",0.1,0.86,0.116,1.471,80
+"Dissatisfied","{Q28_item=Q28=LowTrust,Q15_item=Q15=OtherListedOrNoPreference,Q7_item=Q7=LowSocialMediaAttention} => {Q27_item=Q27=Dissatisfied}",0.069,0.859,0.08,1.47,55
+"Satisfied","{Q3_item=Q3=HighCampaignInterest,Q7_item=Q7=HigherSocialMediaAttention,Q25_2_item=Q25_2=LaborHigh} => {Q27_item=Q27=Satisfied}",0.066,0.869,0.076,2.093,53
+"Satisfied","{Q28_item=Q28=NotLowTrust,Q3_item=Q3=HighCampaignInterest,Q25_2_item=Q25_2=LaborHigh} => {Q27_item=Q27=Satisfied}",0.065,0.867,0.075,2.087,52
+"Satisfied","{Q26_1_item=Q26_1=AlbaneseHigh,Q3_item=Q3=HighCampaignInterest,Q25_2_item=Q25_2=LaborHigh} => {Q27_item=Q27=Satisfied}",0.07,0.862,0.081,2.075,56
+"Satisfied","{Q3_item=Q3=HighCampaignInterest,Q33_item=Q33=Group1_2,Q25_2_item=Q25_2=LaborHigh} => {Q27_item=Q27=Satisfied}",0.07,0.836,0.084,2.013,56
+"Satisfied","{Q28_item=Q28=NotLowTrust,Q26_1_item=Q26_1=AlbaneseHigh,Q3_item=Q3=HighCampaignInterest} => {Q27_item=Q27=Satisfied}",0.07,0.824,0.085,1.983,56

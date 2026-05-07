@@ -12,7 +12,8 @@ required_packages <- c(
   "rpart.plot",
   "caret",
   "cluster",
-  "factoextra"
+  "factoextra",
+  "arules"
 )
 
 installed_packages <- rownames(installed.packages())
