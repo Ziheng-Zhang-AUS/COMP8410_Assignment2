@@ -207,9 +207,3 @@ The repository does not include raw data.
 Some outputs with row-level predictions are not saved, because they may reveal information from the course dataset.
 
 The main results can be reproduced by placing the original CSV file in `data/` and running `run_all.r`.
-
-The association rule mining script requires the `arules` package. If it is not installed automatically by `scripts/00_setup.r`, install it manually with:
-
-```r
-install.packages("arules")
-```
